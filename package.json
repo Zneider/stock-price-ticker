@@ -1,0 +1,27 @@
+{
+  "name": "stock-price-ticker",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "author": "Jacob Zneider",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.js --target node"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "pubsub-js": "^1.9.2",
+    "ws": "^7.4.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/node": "^7.12.16",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.16",
+    "nodemon": "^2.0.7",
+    "parcel-bundler": "^1.12.4"
+  }
+}
