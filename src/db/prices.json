@@ -1,0 +1,201 @@
+{
+  "page": 3,
+  "perPage": 10,
+  "count": 612,
+  "status": "OK",
+  "tickers": [
+    {
+      "ticker": "WJXFF",
+      "name": "Wajax Corp. Ordinary Shares (Canada)",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862137151,
+      "codes": {
+        "figiuid": "EQ0000000001813468",
+        "scfigi": "BBG001S903G3",
+        "cfigi": "BBG000FC9X77",
+        "figi": "BBG000FC9X77"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WJXFF",
+      "price": 12828.39
+    },
+    {
+      "ticker": "WK",
+      "name": "Workiva Inc.",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NYE",
+      "updated": 1613862136134,
+      "codes": {
+        "cik": "0001445305",
+        "figiuid": "EQ0000000038276223",
+        "scfigi": "BBG007BVZ8J7",
+        "cfigi": "BBG007BVZ8H9",
+        "figi": "BBG007BVZ8H9"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WK",
+      "price": 73304.02
+    },
+    {
+      "ticker": "WKAPF",
+      "name": "PT WIJAYA KARYA PERSERO TBK Ordinary Shares  Indonesia(ID )",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862132458,
+      "codes": {
+        "figiuid": "EQ0000000081240418",
+        "scfigi": "BBG001S942W3",
+        "cfigi": "BBG00RB9W3C3",
+        "figi": "BBG00RB9W3C3"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKAPF",
+      "price": 89214.54
+    },
+    {
+      "ticker": "WKCMF",
+      "name": "Wacker Chemie Ag Muenchen Ordinary Shares (Germany)",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862133998,
+      "codes": {
+        "figiuid": "EQ0000000002455079",
+        "scfigi": "BBG001S6K2G9",
+        "cfigi": "BBG000Q4XW50",
+        "figi": "BBG000Q4XW50"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKCMF",
+      "price": 25752.5
+    },
+    {
+      "ticker": "WKGBF",
+      "name": "SANDERSON DESIGN GROUP PLC Ordinary Shares",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "GBP",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862135830,
+      "codes": {
+        "figiuid": "EQ0011248600001001",
+        "scfigi": "BBG001S63NZ1",
+        "cfigi": "BBG000CZCFF5",
+        "figi": "BBG000CZCFF5"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKGBF",
+      "price": 80486.29
+    },
+    {
+      "ticker": "WKHS",
+      "name": "Workhorse Group, Inc. Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "NASDAQ",
+      "updated": 1613862135217,
+      "codes": {
+        "cik": "0001425287",
+        "figiuid": "EQ0000000008309601",
+        "scfigi": "BBG001SD7PS5",
+        "cfigi": "BBG000BDPB15",
+        "figi": "BBG000BDPB15"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKHS",
+      "price": 5562.17
+    },
+    {
+      "ticker": "WKKHF",
+      "name": "Wong S Kong King Holdings Ltd Ordinary Shares (Bermuda)",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862136644,
+      "codes": {
+        "figiuid": "EQ0000000001175132",
+        "scfigi": "BBG001S6JD95",
+        "cfigi": "BBG000C19X74",
+        "figi": "BBG000C19X74"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKKHF",
+      "price": 57851.26
+    },
+    {
+      "ticker": "WKLDF",
+      "name": "West Kirkland Mining Inc. Ordinary Shares (Canada)",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862136543,
+      "codes": {
+        "figiuid": "EQ0000000020287889",
+        "scfigi": "BBG001STLSK6",
+        "cfigi": "BBG002457GK4",
+        "figi": "BBG002457GK4"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKLDF",
+      "price": 99174.28
+    },
+    {
+      "ticker": "WKLN",
+      "name": "Walker Lane Exploration, Inc. Common Stock",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862133482,
+      "codes": {
+        "cik": "0001413659",
+        "figiuid": "EQ0000000005850386",
+        "scfigi": "BBG001ST7087",
+        "cfigi": "BBG000R6V0T0",
+        "figi": "BBG000R6V0T0"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKLN",
+      "price": 28215.42
+    },
+    {
+      "ticker": "WKPYF",
+      "name": "PT Waskita Karya Persero Tbk Pt Shs Series B (Indonesia)",
+      "market": "STOCKS",
+      "locale": "US",
+      "type": "CS",
+      "currency": "USD",
+      "active": true,
+      "primaryExch": "OTC",
+      "updated": 1613862128357,
+      "codes": {
+        "figiuid": "EQ0000000065167481",
+        "scfigi": "BBG001SPBB86",
+        "cfigi": "BBG00KZZ3069",
+        "figi": "BBG00KZZ3069"
+      },
+      "url": "https://api.polygon.io/v2/tickers/WKPYF",
+      "price": 31974.13
+    }
+  ]
+}
